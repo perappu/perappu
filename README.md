@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello! 🦜
+
+I'm Toko, or Kazimir! QA by day, web developer by night, and multimedia artist sometime in between. I like birds.
+
+My main projects are extensions and contributions to the open source project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source headless CMS project [Saussure](https://github.com/perappu/saussure).
+
+I work in a wide variety of languages, but Javascript, PHP, and C# always keep me coming back.
+
+Thanks for looking at my work!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=perappu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **perappu/perappu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
