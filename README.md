@@ -1,6 +1,6 @@
 ## Hello! 🦜
 
-I'm Kazimir! QA by day, web developer by night, and multimedia artist sometime in between. I like birds.
+I'm Kazimir! ~~QA by day,~~ also a web developer both by night and by day now, and multimedia artist sometime in between. I like birds.
 
 My main projects are extensions and contributions to the open source project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud C# plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source headless CMS project [Saussure](https://github.com/perappu/saussure).
 
