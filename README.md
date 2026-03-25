@@ -2,7 +2,7 @@
 
 I'm Kazimir! ~~QA by day,~~ also a web developer both by night and by day now, and multimedia artist sometime in between. I like birds.
 
-My main projects are extensions and contributions to the open source project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud C# plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source headless CMS project [Saussure](https://github.com/perappu/saussure).
+My main projects are extensions and contributions to the open source Laravel project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud C# plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source SvelteKit headless CMS project [Saussure](https://github.com/perappu/saussure).
 
 I work in a wide variety of languages, but TypeScript, PHP, and C# always keep me coming back.
 
