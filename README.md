@@ -4,11 +4,9 @@ I am known by many names, but you'll probably most often hear me called Toko! I'
 
 My main projects are extensions and contributions to the open source Laravel project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud C# plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source SvelteKit headless CMS project [Saussure](https://github.com/perappu/saussure).
 
-I work in a wide variety of languages, but TypeScript, PHP, and C# always keep me coming back.
+I work in a wide variety of languages, but TypeScript, PHP, C#, and Python are probably my go-tos.
 
 Thanks for looking at my work!
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=perappu&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **perappu/perappu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
