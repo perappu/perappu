@@ -1,6 +1,6 @@
 ## Hello! 🦜
 
-I'm Kazimir! ~~QA by day,~~ also a web developer both by night and by day now, and multimedia artist sometime in between. I like birds.
+I am known by many names, but you'll probably most often hear me called Toko! I'm a web developer and occasional multimedia artist.
 
 My main projects are extensions and contributions to the open source Laravel project [Lorekeeper](https://github.com/perappu/lorekeeper), the Dalamud C# plugin [WhoSaidWhatNow](https://github.com/perappu/WhoSaidWhatNow), and my open source SvelteKit headless CMS project [Saussure](https://github.com/perappu/saussure).
 
