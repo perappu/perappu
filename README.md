@@ -8,5 +8,4 @@ I work in a wide variety of languages, but TypeScript, PHP, C#, and Python are p
 
 Thanks for looking at my work!
 
-[![youtube video titled "this song from 1901 is basically about AI"](https://img.youtube.com/vi/F5EukG_umbA/0.jpg)](https://www.youtube.com/watch?v=F5EukG_umbA)
-
+[oh I wish I'se a mole in the ground](https://youtu.be/F5EukG_umbA)
