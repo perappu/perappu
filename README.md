@@ -8,4 +8,4 @@ I work in a wide variety of languages, but TypeScript, PHP, C#, and Python are p
 
 Thanks for looking at my work!
 
-[oh I wish I'se a mole in the ground](https://youtu.be/F5EukG_umbA)
+<sub>wondering how much I use AI? [here's your answer](https://youtu.be/F5EukG_umbA)</sub>
